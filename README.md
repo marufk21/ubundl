@@ -1,4 +1,4 @@
-# Ubundl — Whistle Aligners Landing Page
+# Unbundl — Whistle Aligners Landing Page
 
 A fully responsive landing page for **Whistle Aligners**, an invisible teeth aligner product. Built to match the Figma design at 1440px desktop width, with responsive breakpoints for tablet and mobile.
 
@@ -44,7 +44,7 @@ The component slices the first 6 results and renders them as horizontally scroll
 ## Project Structure
 
 ```
-ubundl/
+unbundl/
 ├── src/
 │   ├── App.tsx                    # Root component — composes all sections
 │   ├── main.tsx                   # ReactDOM entry point
